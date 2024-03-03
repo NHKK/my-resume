@@ -39,7 +39,3 @@ using Java, Spring, and IBM Cognos Analytics
 ## Education
 ### University of North Carolina at Charlotte
 **Degree:** Bachelor in Computer Science | **Years Attended:** 2013-2016 | **City, State:** Charlotte, NC
-
-## Interests
-```3D printing```
-```Videogames```
