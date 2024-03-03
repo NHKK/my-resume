@@ -1,7 +1,7 @@
 ---
 title: Khanh Nguyen
 ---
-###### [ [Github](https://www.github.com/siph) ] - [ [Blog](https://www.dev.to/siph) ] - [ v.vaughn@gmail.com ] - [ 704 737 3464 ]
+###### [ [Github](https://www.github.com/siph) ] - [ [linkedin](www.linkedin.com/in/khanh-nguyen-0614ba108) ] - [ khnguyen@skiff.com ] - [ 704 737 3464 ]
 
 ## Skills
 **Languages**: Javascript/Typescript, Java, Python, SQL
