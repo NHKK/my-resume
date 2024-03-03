@@ -8,7 +8,7 @@ title: Khanh Nguyen
 **Languages**: Javascript/Typescript, Java, Python, SQL
 **Databases**: Postgres, MongoDB
 **Testing**: Jest, Jasmine, Junit
-**Tools**: Angular, Spring, Docker, Github-Actions, CircleCI, Linux, Nix, Git, Rest, GraphQL
+**Tools**: Angular, Node, Spring, Docker, Github-Actions, CircleCI, AWS lambda, AWS ECS, Datadog, Git, Rest, GraphQL
 
 ## Experience
 ### Vanguard 
@@ -39,4 +39,7 @@ using Java, Spring, and IBM Cognos Analytics
 ## Education
 ### University of North Carolina at Charlotte
 **Degree:** Bachelor in Computer Science | **Years Attended:** 2013-2016 | **City, State:** Charlotte, NC
-**Degree:** Bachelor in Biology | **Years Attended:** 2009-2013 | **City, State:** Charlotte, NC
+
+## Interests
+```3D printing```
+```Videogames```
