@@ -1,36 +1,27 @@
 ---
-title: test tester2
+title: Khanh Nguyen
 ---
 ###### [ [Github](https://www.github.com/siph) ] - [ [Blog](https://www.dev.to/siph) ] - [ v.vaughn@gmail.com ] - [ 814 332 8091 ]
-#### Experienced project manager with a track record of delivering high-quality results on time and within budget.
 
 ## Skills
-```Project management```
-```Team leadership```
-```Budget management```
-```Communication```
-```Problem-solving```
-```Agile methodology```
-```Microsoft Project```
-```JIRA```
-```SQL```
-
-**Languages**: Java, Kotlin, Rust  
-**Databases**: Redis, Postgres, Neo4j  
-**Tools**: Spring, Kubernetes, Github-Actions, Linux, Nix, Git, Rest, GraphQL
+**Languages**: Javascript/Typescript, Java, Python, SQL
+**Databases**: Postgres, MongoDB
+**Testing**: Jest, Jasmine, Junit
+**Tools**: Angular, Spring, Docker, Github-Actions, Linux, Nix, Git, Rest, GraphQL
 
 ## Experience
-### Jamba Juice
-##### Senior Project Manager, January 2015 - Present
-- Led cross-functional teams in the successful delivery of multiple software projects, including a major website redesign and a mobile app launch.
-- Managed budgets of up to $5 million and ensured projects were delivered on time and within scope.
-- Coordinated communication with stakeholders, including executive leadership and development teams.
+### Vanguard 
+##### Senior Developer, January 2015 - Present
+- Created a serverless solution for delivering content and client-side libraries across multiple single page applications.
+- Worked on Adobe Experience Platform Web SDK to integrate with client-side libraries to provide a tailored user experience.
+- Migrated multiple of team repo from bitbucket onto github with github actions.
 
-### PF Chang's
-##### Project Manager, February 2011 - December 2014
-- Managed a portfolio of software and hardware projects, including a new CRM implementation and a network infrastructure upgrade.
-- Worked closely with business analysts and technical teams to ensure project requirements were met and delivered on schedule.
-- Maintained project documentation and provided regular status updates to executive leadership.
+### Lunchbox Technologies 
+##### Full-Stack Developer , February 2011 - December 2014
+- Built multiple loyalty systems that enables restaurants to engage with customers and increase sales by gamifying purchases
+by awarding points or coupons
+- Created RESTful APIs to expose Zope ZMI capabilities using python to provide restaurants a portal for configuring menus, menu items and loyalty programs
+- Designed and build a menu ingestion system to handle highly customized menu items such as pizzas, subs/sandwiches
 
 
 ## Projects
