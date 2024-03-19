@@ -2,7 +2,7 @@
 title: Khanh Nguyen
 ---
 
-[ [Github](https://github.com/NHKK) ] - [ [linkedin](www.linkedin.com/in/khanh-nguyen-0614ba108) ] - [ khnguyen@skiff.com ] - [ 704 737 3464 ]
+[ [Github](https://github.com/NHKK) ] - [ [linkedin](https://www.linkedin.com/in/khanh-nguyen-0614ba108) ] - [ khnguyen@skiff.com ] - [ 704 737 3464 ]
 
 ## Skills
 **Languages**: Javascript/Typescript, Java, Python, SQL
