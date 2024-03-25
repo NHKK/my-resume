@@ -2,13 +2,13 @@
 title: Khanh Nguyen
 ---
 
-[ [Github](https://github.com/NHKK) ] - [ [linkedin](https://www.linkedin.com/in/khanh-nguyen-0614ba108) ] - [ khnguyen@skiff.com ] - [ 704 737 3464 ]
+[ [Github](https://github.com/NHKK) ] - [ [linkedin](https://www.linkedin.com/in/khanh-nguyen-0614ba108) ] - [ khnguy3n@proton.me ] - [ 704 737 3464 ]
 
 ## Skills
 **Languages**: Javascript/Typescript, Java, Python, SQL
 **Databases**: Postgres, MongoDB
-**Testing**: Jest, Jasmine, Junit
-**Tools**: Angular, Node, Spring, Docker, Github-Actions, CircleCI, AWS lambda, AWS ECS, Datadog, Git, Rest, GraphQL
+**Testing**: Jest, Vitest, Jasmine, Junit
+**Tools**: Express, Angular, Node, Spring, Docker, Webpack, Vite, Github-Actions, CircleCI, AWS lambda, AWS ECS, Datadog, Git, Rest, GraphQL
 
 ## Experience
 ### Vanguard 
