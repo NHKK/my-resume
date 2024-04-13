@@ -1,5 +1,5 @@
 ---
-title: Khanh Nguyen
+title: Khanh Nguyen Resume
 ---
 
 [ [Github](https://github.com/NHKK) ] - [ [linkedin](https://www.linkedin.com/in/khanh-nguyen-0614ba108) ] - [ khnguy3n@proton.me ] - [ 704 737 3464 ]
@@ -15,17 +15,16 @@ title: Khanh Nguyen
 ## Experience
 ### Vanguard 
 ##### Senior Developer, May 2023 - Present
-- Created a serverless solution for delivering content and client-side libraries across multiple single-page applications using typescript with vite for bundling and served from AWS S3.
-- Worked on Adobe Experience Platform Web SDK to integrate with client-side libraries to provide a tailored user experience while also leveraging playwright to simulate client behaviors.
-- Migrated multiple team repos from bitbucket onto GitHub with GitHub actions.
-- Mentored and coached junior developers on best practices and testing standards.
+- Led the re-architecture of a serverless content delivery solution for multiple web applications using TypeScript with Vite for efficient bundling, hosted on AWS S3. Replaced legacy AWS ECS-based script serving solution with AWS S3 and API Gateway setup - enhancing performance and reducing infrastructure costs.
+- Collaborated on integrating the Adobe Experience Platform Web SDK with client-side libraries to deliver personalized user experiences, employing Playwright for client behavior simulation and testing.
+- Successfully migrated multiple team repositories from Bitbucket to GitHub, implementing GitHub Actions for streamlined CI/CD processes.
+- Provided mentorship and coaching to junior developers, emphasizing best practices in software development, testing standards, and agile methodologies.
 
 ### Lunchbox Technologies 
 ##### Full-Stack Developer , September 2021 - April 2023
-- Use NestJS, typescript, and postgres to build multiple loyalty systems that enable restaurants to engage with customers and increase sales by gamify purchases by awarding points or coupons. In addition added a redis to handle awarding events.
-- Created RESTful APIs to expose Zope ZMI capabilities using Python to provide restaurants with a portal for configuring menus,
-menu items and loyalty programs. React was used for the client portal.
-- Designed and built a menu ingestion system to handle highly customized menu items such as pizzas, subs/sandwiches via MongoDB and AWS SQS and Lambdas.
+- Developed innovative loyalty systems using NestJS, TypeScript, and PostgreSQL to empower restaurants in boosting customer engagement and sales through gamified purchase incentives such as point rewards and coupons. Implemented Redis as a caching solution to optimize performance during awarding events.
+- Engineered RESTful APIs leveraging Python to expose Zope ZMI functionalities, enabling restaurants to configure menus, menu items, and loyalty programs via a dedicated portal. Utilized React to craft an intuitive and responsive client interface.
+- Architected and implemented a robust menu ingestion system utilizing MongoDB, AWS SQS, and AWS Lambdas. Successfully managed complex menu items (e.g., pizzas, subs/sandwiches) with a focus on scalability and customization.
 
 ### Vanguard 
 ##### Senior Developer, July 2016 - September 2021
